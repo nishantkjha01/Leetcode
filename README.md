@@ -11,8 +11,14 @@ leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
