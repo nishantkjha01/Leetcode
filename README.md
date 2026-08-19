@@ -11,6 +11,7 @@ leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/nishantkjha01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@ leetcode questions
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/nishantkjha01/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nishantkjha01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
