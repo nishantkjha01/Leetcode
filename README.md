@@ -21,4 +21,12 @@ leetcode questions
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nishantkjha01/Leetcode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nishantkjha01/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
