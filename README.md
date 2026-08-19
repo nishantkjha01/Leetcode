@@ -12,6 +12,7 @@ leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nishantkjha01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/nishantkjha01/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ leetcode questions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nishantkjha01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nishantkjha01/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
