@@ -8,6 +8,7 @@ leetcode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/nishantkjha01/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nishantkjha01/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/nishantkjha01/Leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -40,4 +41,8 @@ leetcode questions
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/nishantkjha01/Leetcode/tree/master/1929-concatenation-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nishantkjha01/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
