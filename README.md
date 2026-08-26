@@ -14,6 +14,7 @@ leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/nishantkjha01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/nishantkjha01/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -21,6 +22,7 @@ leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -55,4 +57,8 @@ leetcode questions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nishantkjha01/Leetcode/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
