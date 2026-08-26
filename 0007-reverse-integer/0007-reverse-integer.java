@@ -1,0 +1,20 @@
+class Solution {
+    public int reverse(int x) {
+        int ans = 0;
+        int flag = (x < 0) ? -1 : 1;
+        x = Math.abs(x);
+
+        while (x > 0) {
+            int rem = x % 10;
+            x /= 10;
+
+            if (ans > (Integer.MAX_VALUE - rem) / 10) {
+                return 0;
+            }
+
+            ans = ans * 10 + rem;
+        }
+
+        return ans * flag;
+    }
+}
