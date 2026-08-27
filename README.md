@@ -15,6 +15,7 @@ leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nishantkjha01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/nishantkjha01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/nishantkjha01/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -23,6 +24,7 @@ leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nishantkjha01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishantkjha01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -61,4 +63,8 @@ leetcode questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/nishantkjha01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
