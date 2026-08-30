@@ -16,6 +16,7 @@ leetcode questions
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishantkjha01/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishantkjha01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/nishantkjha01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/nishantkjha01/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@ leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishantkjha01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/nishantkjha01/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -74,5 +76,18 @@ leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishantkjha01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
