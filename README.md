@@ -42,6 +42,7 @@ leetcode questions
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/nishantkjha01/Leetcode/tree/master/0402-remove-k-digits) |
 | [1768-merge-strings-alternately](https://github.com/nishantkjha01/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
@@ -90,4 +91,16 @@ leetcode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/nishantkjha01/Leetcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/nishantkjha01/Leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/nishantkjha01/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
