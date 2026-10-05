@@ -94,6 +94,7 @@ leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/nishantkjha01/Leetcode/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -107,6 +108,7 @@ leetcode questions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,4 +117,9 @@ leetcode questions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
