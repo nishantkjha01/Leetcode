@@ -14,6 +14,7 @@ leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishantkjha01/Leetcode/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/nishantkjha01/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nishantkjha01/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishantkjha01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishantkjha01/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -113,6 +114,7 @@ leetcode questions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/nishantkjha01/Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,4 +124,13 @@ leetcode questions
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishantkjha01/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/nishantkjha01/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nishantkjha01/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nishantkjha01/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
